@@ -10,7 +10,7 @@ This repository contains the code for our paper:
   - [Load the model](#load-the-model)
     - [Fit](#fit)
     - [Transform](#transform)
-    - [Fit and Transform](#fit_transform)
+    - [Fit and Transform](#fit-and-transform)
 
 ## Requirements
 ```bash
