@@ -9,6 +9,7 @@ setup(
     packages=find_packages('src'),
     package_dir={'': 'src'},
     url='https://github.com/rotembaruch/contrastive_learning_for_pcap',
+    download_url = 'https://github.com/rotembaruch/contrastive_learning_for_pcap/archive/refs/tags/V0.1.tar.gz',
     keywords='clfp',
     install_requires=[
           'transformers',
