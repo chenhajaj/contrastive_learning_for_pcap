@@ -1,6 +1,6 @@
 ## Contrastive Learning for PCAP
 
-This repository contains the code for our paper [SimCSE for Encrypted Traffic Detection and Zero-Day Attack Detection]([https://XXXX](https://ieeexplore.ieee.org/document/9780135)).
+This repository contains the code for our paper [SimCSE for Encrypted Traffic Detection and Zero-Day Attack Detection ([https://ieeexplore.ieee.org/document/9780135]).
 
 
 ## Quick Links
