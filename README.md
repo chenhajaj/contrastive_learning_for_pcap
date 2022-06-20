@@ -27,7 +27,7 @@ from contrastive_learning_for_pcap.contrastive_learning_for_pcap import contrast
 ## Load the model
 
 ```bash
-PATH= "PATH TO FOLDER THAT CONTAIN PCAP FILES"
+PATH= "PATH TO FOLDER THAT CONTAINS PCAP FILES"
 model=contrastive_learning_for_pcap(PATH)
 ``` 
 ## Fit
