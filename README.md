@@ -14,7 +14,8 @@ This repository contains the code for our paper:
 
 ## Requirements
 ```bash
-!pip install contrastive-learning-for-pcap
+!pip install transformers
+!pip install contrastive_learning_for_pcap
 ```
 
 ## Getting Started
@@ -34,7 +35,7 @@ model=contrastive_learning_for_pcap(PATH)
 
 ```bash
 epoc_num=1
-vectors=model.fit_transform(epoc_num)
+model.fit_transform(epoc_num)
 ``` 
 ## Transform
 
