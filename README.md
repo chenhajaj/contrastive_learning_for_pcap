@@ -48,3 +48,18 @@ vectors=model.transform()
 epoc_num=1
 vectors=model.fit_transform(epoc_num)
 ```
+
+## Citation
+```
+@article{bar2022simcse,
+  title={Simcse for encrypted traffic detection and zero-day attack detection},
+  author={Bar, Rotem and Hajaj, Chen},
+  journal={IEEE Access},
+  volume={10},
+  pages={56952--56960},
+  year={2022},
+  publisher={IEEE}
+}
+
+```
+
